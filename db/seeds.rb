@@ -5,3 +5,5 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+# coding: utf-8
+Meeting.create(:name => '休み',:start_time => '2020-05-20 05:30:30')
